@@ -5,7 +5,7 @@
 
 # Start background process without proper monitoring
 jekyll build &
-echo "Bg process started"
+
 export DEPLOY_ENV=production
 
 # Wait for build (problematic: fixed sleep without validation)
