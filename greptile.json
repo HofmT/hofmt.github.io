@@ -1,0 +1,16 @@
+ {
+    "strictness": 2,
+    "fixWithAI": true,
+    "statusCheck": true,
+    "commentTypes": ["logic", "style"],
+    "excludeAuthors": ["SohamGhormade2021"],
+    "triggerOnUpdates": true,
+    "updateSummaryOnly": false,
+    "fileChangeLimit": 100,
+    "statusCommentsEnabled": true,
+    "shouldUpdateDescription": true,
+    "summarySection": {"included": true},
+    "issuesTableSection": {"included": true},
+    "confidenceScoreSection": {"included": true},
+    "sequenceDiagramSection": {"included": true}
+  }
