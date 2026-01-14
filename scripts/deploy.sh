@@ -8,8 +8,5 @@ jekyll build &
 
 export DEPLOY_ENV=production
 
-# Wait for build (problematic: fixed sleep without validation)
-sleep 2
-
 # Execute deployment with exec (orphans background process)
 exec ./deploy-to-server.sh
