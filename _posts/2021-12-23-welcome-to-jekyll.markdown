@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post1
 title:  "Welcome to Jekyll!"
 date:   2021-12-23 21:39:56 +0100
 categories: jekyll update
@@ -28,4 +28,5 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   http://github.com/jekyll/jekyll
 [jekyll-talk]: http//talk.jekyllrb.com/
+
 
